@@ -16,8 +16,7 @@ public class Main1 {
 		}	else {
 			System.out.println("1,2以外を入力しましたね");
 		}
-		
-		System.out.println("AHAHAAHA!!");
+
 		System.out.println("処理を終了します");
 	}
 
