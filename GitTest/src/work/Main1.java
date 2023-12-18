@@ -18,6 +18,7 @@ public class Main1 {
 		}
 		
 		System.out.println("AHAHAAHA!!");
+		System.out.println("WAHAHAHA!!");
 	}
 
 }
