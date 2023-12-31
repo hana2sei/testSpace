@@ -5,8 +5,6 @@ public class Main1 {
 	public static void main(String[] args) {
 		System.out.println("こんにちは。今日はいい天気ですね！");
 		System.out.println("こんばんは。今宵は冷えますね");
-		
-		System.out.println("おはよう！");
 
 		int input = new java.util.Scanner(System.in).nextInt();
 		if (input == 1) {
